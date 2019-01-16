@@ -25,22 +25,16 @@ redis : 3.2.1
 
 ### 二、纯java项目做的2个小游戏
 
-#### 1.[贪吃蛇](https://github.com/TimePickerWang/project/tree/master/snake)
+#### 1.[贪吃蛇]
 
-<center>
-![image](https://github.com/TimePickerWang/project/blob/master/snake/2018-08-12_174749.png?raw=true)
-</center>
+![image](https://github.com/TimePickerWang/project/blob/master/javaGame/snake/2018-08-12_174749.png?raw=true)
 
-<center>
-![image](https://github.com/TimePickerWang/project/blob/master/snake/2018-08-12_174804.png?raw=true)
-</center>
+![image](https://github.com/TimePickerWang/project/blob/master/javaGame/snake/2018-08-12_174804.png?raw=true)
 
-#### 2.[俄罗斯方块](https://github.com/TimePickerWang/project/tree/master/tetris)
 
-<center>
-![image](https://github.com/TimePickerWang/project/blob/master/tetris/2018-08-12_174506.png?raw=true)
-</center>
+#### 2.[俄罗斯方块]
 
-<center>
-![image](https://github.com/TimePickerWang/project/blob/master/tetris/2018-08-12_174519.png?raw=true)
-</center>
+![image](https://github.com/TimePickerWang/project/blob/master/javaGame/tetris/2018-08-12_174506.png?raw=true)
+
+![image](https://github.com/TimePickerWang/project/blob/master/javaGame/tetris/2018-08-12_174519.png?raw=true)
+
