@@ -17,7 +17,7 @@ redis : 3.2.1
 ##### 角色和用户
 ![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/role2.jpg?raw=true)
 
-#### 3.权限模块（维护维护权限模块和权限点的关系） 
+#### 3.权限/权限点模块（维护维护权限模块和权限点的关系） 
 ![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/aclmodule.jpg?raw=true)
 
 #### 4.操作日志模块（主要为了查看对各个模块的操作记录、可以用过记录来对操作进行回滚）
