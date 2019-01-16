@@ -1,4 +1,4 @@
-### 一、企业级权限管理系统，一个自己学习做的RBAC（Role-Based Access Control）系统。主要分为部门模块，用户模块，权限模块，权限点模块，角色模块等部分。采用SpringMVC+Spring+Mybatis完成，数据库连接池采用druid 连接池。源代码在source文件夹下，permission.sql文件是系统对应的数据库文件。数据库和redis的配置文件分别是src\main\resources目录下的settings.properties和redis.properties。运行环境如下：
+### 一、企业级权限管理系统：一个自己学习做的RBAC（Role-Based Access Control）系统。主要分为部门模块，用户模块，权限模块，权限点模块，角色模块等部分。采用SpringMVC+Spring+Mybatis完成，数据库连接池采用druid 连接池。源代码在source文件夹下，permission.sql文件是系统对应的数据库文件。数据库和redis的配置文件分别是src\main\resources目录下的settings.properties和redis.properties。运行环境如下：
 ```
 jdk :  1.8
 mysql : 5.7.24
