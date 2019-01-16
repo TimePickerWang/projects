@@ -24,7 +24,7 @@ redis : 3.2.1
 ![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/log.jpg?raw=true)
 
 
-### 二、纯java项目做的2个小游戏
+### 二、2个小游戏：纯java做的贪吃蛇和俄罗斯方块
 
 #### 1.[贪吃蛇]
 
