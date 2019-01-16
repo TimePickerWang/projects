@@ -1,51 +1,46 @@
-## 一、企业级权限管理系统，一个自己学习做的RBAC（Role-Based Access Control）系统。主要分为部门模块，用户模块，权限模块，权限点模块，角色模块等部分。采用SpringMVC+Spring+Mybatis完成，数据库连接池采用druid 连接池。源代码在source文件夹下，permission.sql文件是系统对应的数据库文件。数据库和redis的配置文件分别是src\main\resources目录下的settings.properties和redis.properties。运行环境如下：
+### 一、企业级权限管理系统，一个自己学习做的RBAC（Role-Based Access Control）系统。主要分为部门模块，用户模块，权限模块，权限点模块，角色模块等部分。采用SpringMVC+Spring+Mybatis完成，数据库连接池采用druid 连接池。源代码在source文件夹下，permission.sql文件是系统对应的数据库文件。数据库和redis的配置文件分别是src\main\resources目录下的settings.properties和redis.properties。运行环境如下：
 ```
 jdk :  1.8
 mysql : 5.7.24
 redis : 3.2.1
 ```
-### 下面是部分系统界面截图：  
-### 1.部门/用户模块（维护部门和用户的关系）  
+#### 下面是部分系统界面截图：  
+#### 1.部门/用户模块（维护部门和用户的关系）  
 ![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/dept.jpg?raw=true)
 
-### 2.角色模块（维护角色和用户、角色和权限的关系）
+#### 2.角色模块（维护角色和用户、角色和权限的关系）
 
-#### 角色和权限
+##### 角色和权限
 ![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/role1.jpg?raw=true)
 
-#### 角色和用户
+##### 角色和用户
 ![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/role2.jpg?raw=true)
 
-### 3.权限模块（维护维护权限模块和权限点的关系） 
+#### 3.权限模块（维护维护权限模块和权限点的关系） 
 ![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/aclmodule.jpg?raw=true)
 
-### 4.操作日志模块（主要为了查看对各个模块的操作记录、可以用过记录来对操作进行回滚）
+#### 4.操作日志模块（主要为了查看对各个模块的操作记录、可以用过记录来对操作进行回滚）
 ![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/log.jpg?raw=true)
 
 
-## 二、纯java项目做的2个小游戏
+### 二、纯java项目做的2个小游戏
 
-### 1.[贪吃蛇](https://github.com/TimePickerWang/project/tree/master/snake)
+#### 1.[贪吃蛇](https://github.com/TimePickerWang/project/tree/master/snake)
+
 <center>
-
 ![image](https://github.com/TimePickerWang/project/blob/master/snake/2018-08-12_174749.png?raw=true)
-
 </center>
 
 <center>
-
 ![image](https://github.com/TimePickerWang/project/blob/master/snake/2018-08-12_174804.png?raw=true)
-
 </center>
 
-### 2.[俄罗斯方块](https://github.com/TimePickerWang/project/tree/master/tetris)
-<center>
+#### 2.[俄罗斯方块](https://github.com/TimePickerWang/project/tree/master/tetris)
 
+<center>
 ![image](https://github.com/TimePickerWang/project/blob/master/tetris/2018-08-12_174506.png?raw=true)
-
 </center>
+
 <center>
-
 ![image](https://github.com/TimePickerWang/project/blob/master/tetris/2018-08-12_174519.png?raw=true)
-
 </center>
