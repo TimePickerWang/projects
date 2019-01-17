@@ -5,7 +5,11 @@ jdk :  1.8
 mysql : 5.7.24
 redis : 3.2.1
 ```
-#### 下面是部分系统界面截图：  
+#### 各个模块（表)之间的关系如下图：
+![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/teble.jpg?raw=true)
+
+
+#### 下面是系统界面截图：  
 #### 1.部门/用户模块（维护部门和用户的关系）  
 ![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/dept.jpg?raw=true)
 
