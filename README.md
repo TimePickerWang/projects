@@ -6,7 +6,7 @@ mysql : 5.7.24
 redis : 3.2.1
 ```
 #### 各个模块（表)之间的关系如下图：
-![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/teble.jpg?raw=true)
+![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/table.jpg?raw=true)
 
 
 #### 下面是系统界面截图：  
