@@ -5,7 +5,7 @@ jdk :  1.8
 mysql : 5.7.24
 redis : 3.2.1
 ```
-#### 各个模块（表)之间的关系如下图：
+#### 各个模块（表）之间的关系如下图：
 ![image](https://github.com/TimePickerWang/project/blob/master/ssm-permission/img/table.jpg?raw=true)
 
 
